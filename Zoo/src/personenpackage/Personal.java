@@ -1,5 +1,7 @@
 package personenpackage;
 
+import gehegepackage.Gehege;
+
 public abstract class Personal {
   
   public class Personal extends Personen {
