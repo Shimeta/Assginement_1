@@ -1,5 +1,6 @@
 package gehegepackage;
 import tierpackage.Tier;
+import Zoo;
 
 public abstract class Gehege {
 	
